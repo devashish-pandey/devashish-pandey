@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:-->
 - 🌱 I’m currently learning DSA in Java
-- 😄 Pronouns: He/ Him/His
+- 😄 Pronouns: He/ Him
 <!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about ...-->
+- 📫 How to reach me: Twitter:https://twitter.com/Devashishtwt
 
-- ⚡ Fun fact: ...-->
+- ⚡<!-- Fun fact: ...-->
 
