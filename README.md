@@ -1,18 +1,32 @@
-# 💫 About Me:
-# 💫 About Me<br><br>🎓 Final-year **B.Tech Computer Science** student with a strong interest in **DevOps, Cloud Computing, and Infrastructure Automation**.<br><br>🚀 I enjoy building, containerizing, deploying, and troubleshooting applications while exploring modern DevOps practices through hands-on projects. My approach is simple: **learn by building, break things, fix them, and document the journey**.<br><br>🌱 **Currently Learning**<br><br>* Docker & Docker Compose<br>* Linux & Bash Scripting<br>* Git & GitHub<br>* CI/CD & Jenkins<br>* Kubernetes<br>* AWS Cloud<br>* Networking Fundamentals<br>* Infrastructure Automation<br><br>🛠️ I enjoy working on projects involving:<br><br>* Multi-container applications<br>* Docker networking & volumes<br>* Persistent storage<br>* Health checks<br>* Multi-stage Docker builds<br>* Image optimization<br>* Deployment workflows<br>* CI/CD pipelines<br><br>📝 I regularly document my projects, debugging experiences, and lessons learned to deepen my understanding and help others who are on a similar learning path.<br><br>📊 In addition to DevOps, I have experience with **SQL, Power BI, and Microsoft Excel**, which strengthens my analytical thinking and problem-solving skills.<br><br>🎯 **Looking for:** DevOps Engineer, Cloud Engineer, Platform Engineer, Site Reliability Engineer (SRE), or Cloud Support Engineer internships and entry-level opportunities where I can contribute, learn, and build reliable, scalable systems.<br>
+💫 About Me
 
+🎓 Final-year B.Tech Computer Science student passionate about DevOps, Cloud Computing, and Infrastructure Automation.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devashish-pandey-2852ba289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devashishpandey0001@gmail.com) 
+🚀 I enjoy learning by building and experimenting with real-world applications, containerization, deployment workflows, and automation. I believe in understanding how things work by building them, troubleshooting issues, and documenting what I learn.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devashish-pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=devashish-pandey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devashish-pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌱 Currently Learning
+Docker & Docker Compose
+Linux & Bash Scripting
+Git & GitHub
+CI/CD & Jenkins
+Kubernetes
+AWS Cloud Services
+Networking Fundamentals
+Infrastructure as Code and Automation
+🛠️ Areas of Interest
+Containerization and Multi-container Applications
+Docker Networking and Persistent Storage
+Multi-stage Docker Builds and Image Optimization
+Health Checks and Application Reliability
+CI/CD Pipelines and Deployment Automation
+Cloud Infrastructure and DevOps Practices
 
----
-[![](https://komarev.com/ghpvc/?username=devashish-pandey&icon=0&color=0)](https://visitcount.itsvg.in)
+📝 I regularly document my hands-on projects, troubleshooting experiences, and technical learnings to strengthen my understanding and share knowledge with the developer community.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📊 I also have experience with SQL, Power BI, and Microsoft Excel, helping me develop analytical thinking and problem-solving skills.
+
+🎯 Career Interests
+
+Actively seeking DevOps, Cloud Engineering, Platform Engineering, SRE, and Cloud Support internships or entry-level opportunities where I can apply my knowledge, gain practical experience, and contribute to building reliable and scalable systems.
+
+📫 Feel free to connect with me and explore my projects!
